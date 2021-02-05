@@ -38,7 +38,7 @@ namespace SelectionStatements
             {
                 Console.WriteLine("y is greater than x");
             }
-
+            Console.WriteLine("************************************************************************");
             //SWITCH STATEMENT
             //switch (expression)
             //{
