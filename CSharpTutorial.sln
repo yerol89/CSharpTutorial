@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "Except
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionToCalculateVAT", "FunctionToCalculateVAT\FunctionToCalculateVAT.csproj", "{47BC3EB5-1537-44AB-9D59-FE3F01BA491B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPWithCSharp", "OOPWithCSharp\OOPWithCSharp.csproj", "{C27D3C55-9B48-49E6-AED5-8E8F688C76E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPWithCSharp", "OOPWithCSharp\OOPWithCSharp.csproj", "{C27D3C55-9B48-49E6-AED5-8E8F688C76E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
